@@ -1,0 +1,12 @@
+---
+:id: 106726342
+:submitters:
+- :name: Brandon Duncan
+  :email: brd98@pitt.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-01-20 22:14:06.847432000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-01-20 14:14:06.847432000 Z
+:status: processed
+:score: 100.0
